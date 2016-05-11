@@ -31,7 +31,7 @@ the latest backspice config and read more information
 
 ## DelEnt
 
-![delentimage](img/default.png)
+![delentimage](img/delent.png)
 
 This is my personal keyboard layout, named after the Del and Ent keys being next
 to each other in it (had to pick something...). I made this by
@@ -48,7 +48,7 @@ up.  It's a work in progress.
 
 ## Cheat-sheet template
 
-![defaultimage](img/default.png)
+![defaultimage](img/template.png)
 
 I've made an SVG template for presenting your own Twiddler config in a
 nicer way. All the cheat sheets were created with it. It's meant to
