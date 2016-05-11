@@ -16,7 +16,10 @@
    id="svg4164"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="cheatsheet_backspice.svg">
+   sodipodi:docname="cheatsheet_backspice.svg"
+   inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4166">
     <marker
@@ -1963,8 +1966,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0905292"
-     inkscape:cx="545.80464"
-     inkscape:cy="380.1492"
+     inkscape:cx="724.03"
+     inkscape:cy="388.30832"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1987,7 +1990,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1998,7 +2001,10 @@
      transform="translate(0,-308.26772)">
     <g
        id="g8919"
-       transform="matrix(1.0495948,0,0,1.0495948,287.86878,280.56884)">
+       transform="matrix(1.0495948,0,0,1.0495948,287.86878,280.56884)"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          ry="10.387678"
          rx="9.9814157"
@@ -2649,7 +2655,10 @@
        x="672.17957"
        y="390.77856"
        id="text5499"
-       sodipodi:linespacing="83.999997%"><tspan
+       sodipodi:linespacing="83.999997%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5501"
          x="672.17957"
@@ -2664,7 +2673,10 @@
        x="626.45312"
        y="395.19763"
        id="text5503"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5505"
          x="626.45312"
@@ -2676,7 +2688,10 @@
        x="577.19415"
        y="390.28305"
        id="text5507"
-       sodipodi:linespacing="89.999998%"><tspan
+       sodipodi:linespacing="89.999998%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5509"
          x="577.19415"
@@ -2691,7 +2706,10 @@
        x="675.48169"
        y="468.62631"
        id="text5511"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5513"
          x="675.48169"
@@ -2702,7 +2720,10 @@
        x="625.3515"
        y="468.59897"
        id="text5515"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan5517"
          x="625.3515"
@@ -2714,7 +2735,10 @@
        x="577.79608"
        y="602.82495"
        id="text6040"
-       sodipodi:linespacing="89.999998%"><tspan
+       sodipodi:linespacing="89.999998%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan6042"
          x="577.79608"
@@ -2733,7 +2757,10 @@
        x="576.9256"
        y="467.50507"
        id="text6052"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan6054"
          x="576.9256"
@@ -2744,7 +2771,10 @@
        x="672.70325"
        y="542.04132"
        id="text6056"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan6058"
          x="672.70325"
@@ -2755,7 +2785,10 @@
        x="626.1601"
        y="544.60883"
        id="text6060"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan6062"
          x="626.1601"
@@ -2766,7 +2799,10 @@
        x="579.33624"
        y="542.6969"
        id="text6064"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan6066"
          x="579.33624"
@@ -2777,7 +2813,10 @@
        x="672.98566"
        y="615.13715"
        id="text6068"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan6070"
          x="672.98566"
@@ -2789,7 +2828,10 @@
        y="616.07123"
        id="text6072"
        sodipodi:linespacing="125%"
-       inkscape:transform-center-x="-1.7799353"><tspan
+       inkscape:transform-center-x="-1.7799353"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan6074"
          x="625.7323"
@@ -2800,7 +2842,10 @@
        x="669.82275"
        y="505.55908"
        id="text7203"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan7205"
          x="669.82275"
@@ -2811,7 +2856,10 @@
        x="625.24542"
        y="505.38892"
        id="text7207"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan7209"
          x="625.24542"
@@ -2822,7 +2870,10 @@
        x="574.56604"
        y="505.0647"
        id="text7211"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan7213"
          x="574.56604"
@@ -2833,7 +2884,10 @@
        x="667.30609"
        y="578.04852"
        id="text7215"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan7217"
          x="667.30609"
@@ -2844,14 +2898,20 @@
        x="624.31128"
        y="580.11731"
        id="text7219"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan7221"
          x="624.31128"
          y="580.11731">th</tspan></text>
     <g
        id="g8919-2"
-       transform="matrix(1.0495948,0,0,1.0495948,449.67514,280.98404)">
+       transform="matrix(1.0495948,0,0,1.0495948,449.67514,280.98404)"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          ry="10.387678"
          rx="9.9814157"
@@ -3504,14 +3564,20 @@
        x="780.85571"
        y="370.79614"
        rx="10.47644"
-       ry="10.902847" />
+       ry="10.902847"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.74392223px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="835.09003"
        y="467.92151"
        id="text10967"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan10969"
          x="835.09003"
@@ -3522,7 +3588,10 @@
        x="786.53638"
        y="469.40744"
        id="text10971"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan10973"
          x="786.53638"
@@ -3533,7 +3602,10 @@
        x="738.98322"
        y="468.28839"
        id="text10975"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan10977"
          x="738.98322"
@@ -3544,7 +3616,10 @@
        x="836.26477"
        y="544.02112"
        id="text10979"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan10981"
          x="836.26477"
@@ -3555,7 +3630,10 @@
        x="789.17847"
        y="543.38483"
        id="text10983"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan10985"
          x="789.17847"
@@ -3566,7 +3644,10 @@
        x="738.26697"
        y="543.72107"
        id="text10987"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan10989"
          x="738.26697"
@@ -3577,7 +3658,10 @@
        x="836.61322"
        y="579.71295"
        id="text10991"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan10993"
          x="836.61322"
@@ -3588,7 +3672,10 @@
        x="785.21539"
        y="579.71295"
        id="text10995"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan10997"
          x="785.21539"
@@ -3599,7 +3686,10 @@
        x="834.79376"
        y="616.22748"
        id="text10999"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan11001"
          x="834.79376"
@@ -3610,7 +3700,10 @@
        x="784.55487"
        y="616.70166"
        id="text11003"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan11005"
          x="784.55487"
@@ -4314,7 +4407,10 @@
          y="967.33142">y</tspan></text>
     <g
        id="g11007-9-3-1"
-       transform="matrix(1.0495948,0,0,1.0495948,795.40321,-35.142367)">
+       transform="matrix(1.0495948,0,0,1.0495948,795.40321,-35.142367)"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          ry="10.387678"
          rx="9.9814157"
@@ -4951,14 +5047,20 @@
        x="940.7702"
        y="443.25424"
        rx="10.47644"
-       ry="10.902847" />
+       ry="10.902847"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.74392223px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="990.19806"
        y="542.99426"
        id="text19160"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan19162"
          x="990.19806"
@@ -4969,7 +5071,10 @@
        x="947.03381"
        y="542.40051"
        id="text19164"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan19166"
          x="947.03381"
@@ -4980,7 +5085,10 @@
        x="896.91595"
        y="543.32739"
        id="text19168"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan19170"
          x="896.91595"
@@ -4991,7 +5099,10 @@
        x="985.10297"
        y="578.53821"
        id="text19172"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan19174"
          x="985.10297"
@@ -5002,7 +5113,10 @@
        x="947.00964"
        y="615.34851"
        id="text19176"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan19178"
          x="947.00964"
@@ -5013,7 +5127,10 @@
        x="941.14227"
        y="579.12518"
        id="text19180"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan19182"
          x="941.14227"
@@ -13823,14 +13940,20 @@
        x="601.88666"
        y="579.19745"
        id="text68579"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan68581"
          x="601.88666"
          y="579.19745">v</tspan></text>
     <g
        id="g12303-4-4"
-       transform="matrix(-0.94936683,0,0,-0.97207156,410.06368,1105.9651)">
+       transform="matrix(-0.94936683,0,0,-0.97207156,410.06368,1105.9651)"
+       inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <path
          transform="translate(0,308.26772)"
          id="path12301-1-9"
