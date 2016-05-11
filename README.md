@@ -37,8 +37,8 @@ uses backspice every day to good results. The cheat sheet is for the
 N-grams. You can get the latest backspice config and read more
 information 
 [at his github reposity](https://github.com/AlexBravo/Twiddler). Note
-that I will probably not be updating this cheat sheet with
-any regularity. 
+that there may still be changes happening to the config, at which
+point this sheet may not be completely accurate. 
 
 ## DelEnt
 
