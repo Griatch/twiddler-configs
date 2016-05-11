@@ -64,13 +64,15 @@ it visually. Nevertheless it's of course a work in progress.
 
 ![defaultimage](img/template.png)
 
-I've made an SVG template for presenting your own Twiddler config in a
-nicer way. All the cheat sheets were created with it. It's meant to be
-printed on one side of a paper you then fold once or twice to carry
-with you for easy reference.
+I put up the empty SVG template for making/presenting your own
+Twiddler config in a nice way. It's meant to be printed and folded
+once or twice so you can to carry it with you for easy reference.
 
-The template was created in the free program
-[Inkscape](https://inkscape.org/en/) and is released under BSD so use
-as you like. The PDFs I made are ISO A4 format. If you prefer another
-format, you can always change the document type of the corresponding
-SVGs in Inkscape and print that.
+The template and all cheat-sheets were created in the OSS program
+[Inkscape](https://inkscape.org/en/). The sheets are in color but the
+colors are chosen such that they will present very clearly also in
+black&white. 
+
+Released under BSD so use as you like. The PDFs I made are ISO A4
+format. If you prefer another paper format, you can always change the
+document type of the corresponding SVGs in Inkscape and print that.
