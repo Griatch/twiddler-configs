@@ -11,8 +11,9 @@ their cheat sheet. Hope the sheets are useful to someone!
 
 This is the default keyboard layout coming with the Twiddler since 20
 years or so.  Its letters are ordered alphabetically which makes it
-pretty easy to learn while making them less than optimal for quick
-keyboard input - the querty standard of Twiddling. 
+pretty easy to learn while maybe being less than optimal for quick
+keyboard input - it's works fine though, and there are some
+interesting tricks in there. 
 
 ## TabSpace
 
