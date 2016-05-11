@@ -45,26 +45,29 @@ any regularity.
 ![delentimage](img/delent.png)
 
 This is my personal keyboard layout, named after the Del and Ent keys
-being next to each other in it (had to pick something...). I made this
-by starting from the Default config (so *not* from TabSpace) and
-changing the letter to match how commonly they appear in English; the
-config then grew from there.
+being next to each other (had to pick something ...). I made this by
+reshuffling the letters of the default config by order of frequency in
+English (so *not* from TabSpace). The config then grew from there.
 
 While I'm both a Unix user and a programmer, my main use of the
 Twiddler is for writing text when on the move (usually "blindly", with
 the phone tucked away in a pocket). So this layout does not have much
-focus on programming/terminal use like the TabSpace layout. I also
-have rather short fingers which influenced where various common keys
-ended up and which types of finger-combinations are allowed. It's a
-work in progress.
+focus on programming/terminal use - contrary to the other layouts the
+Tab key is pretty well tucked away, for example. 
+
+I also have rather short fingers which influenced where various common
+keys ended up and which types of finger-combinations are allowed. This 
+tended to make for a pretty clean presentation which helps me remember
+it visually. Nevertheless it's of course a work in progress.
 
 ## Cheat-sheet template
 
 ![defaultimage](img/template.png)
 
 I've made an SVG template for presenting your own Twiddler config in a
-nicer way. All the cheat sheets were created with it. It's meant to
-become a little folder you can fold once or twice for easy reference.
+nicer way. All the cheat sheets were created with it. It's meant to be
+printed on one side of a paper you then fold once or twice to carry
+with you for easy reference.
 
 The template was created in the free program
 [Inkscape](https://inkscape.org/en/) and is released under BSD so use
