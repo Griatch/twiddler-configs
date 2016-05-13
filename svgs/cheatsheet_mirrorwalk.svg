@@ -16,7 +16,7 @@
    id="svg6307"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="cheatsheet_walking.svg">
+   sodipodi:docname="cheatsheet_mirrorwalk.svg">
   <defs
      id="defs6309">
     <marker
@@ -1811,9 +1811,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6798159"
-     inkscape:cx="705.58149"
-     inkscape:cy="264.49339"
+     inkscape:zoom="2.3756184"
+     inkscape:cx="876.37694"
+     inkscape:cy="459.66068"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1830,7 +1830,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -9018,61 +9018,61 @@
        id="rect4745-8-0-8-9-0-62-2-3-35-9-5-2-9-0"
        width="20.780958"
        height="38.588097"
-       x="98.846046"
-       y="785.55804"
+       x="98.922653"
+       y="785.58423"
        rx="9.9814138"
        ry="10.387672" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.98068905px;line-height:89.99999762%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="151.22379"
-       y="948.10651"
+       x="103.65722"
+       y="946.42273"
        id="text8669"
        sodipodi:linespacing="89.999998%"><tspan
          sodipodi:role="line"
          id="tspan8671"
-         x="151.22379"
-         y="948.10651">B</tspan><tspan
+         x="103.65722"
+         y="946.42273">B</tspan><tspan
          sodipodi:role="line"
-         x="151.22379"
-         y="960.68915"
+         x="103.65722"
+         y="959.00537"
          id="tspan8689">S</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.36329746px;line-height:89.99999762%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="58.627716"
-       y="942.2807"
+       x="56.943947"
+       y="942.7016"
        id="text8661"
        sodipodi:linespacing="89.999998%"><tspan
          sodipodi:role="line"
          id="tspan8663"
-         x="58.627716"
-         y="942.2807">D</tspan><tspan
+         x="56.943947"
+         y="942.7016">D</tspan><tspan
          sodipodi:role="line"
-         x="58.627716"
-         y="953.40765"
+         x="56.943947"
+         y="953.82855"
          id="tspan8665">E</tspan><tspan
          sodipodi:role="line"
-         x="58.627716"
-         y="964.53461"
+         x="56.943947"
+         y="964.95551"
          id="tspan8667">L</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.66446495px;line-height:89.99999762%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="104.68664"
+       x="150.99037"
        y="942.20685"
        id="text8673"
        sodipodi:linespacing="89.999998%"><tspan
          sodipodi:role="line"
          id="tspan8675"
-         x="104.68664"
+         x="150.99037"
          y="942.20685">E</tspan><tspan
          sodipodi:role="line"
-         x="104.68664"
+         x="150.99037"
          y="953.60486"
          id="tspan8677">N</tspan><tspan
          sodipodi:role="line"
-         x="104.68664"
+         x="150.99037"
          y="965.00287"
          id="tspan8679">T</tspan></text>
     <rect
@@ -9080,8 +9080,8 @@
        id="rect4745-8-0-8-9-0-62-2-3-35-9-5-2-9-0-4"
        width="20.780958"
        height="38.588097"
-       x="98.799362"
-       y="858.81891"
+       x="98.501709"
+       y="715.64844"
        rx="9.9814138"
        ry="10.387672" />
     <g
@@ -10701,15 +10701,6 @@
          id="tspan5922">P</tspan></text>
     <rect
        style="opacity:1;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.8, 3.8;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4745-8-0-8-9-0-62-2-3-35-9-5-2-2"
-       width="20.780958"
-       height="38.588097"
-       x="258.11798"
-       y="784.33337"
-       rx="9.9814138"
-       ry="10.387672" />
-    <rect
-       style="opacity:1;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.8, 3.8;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4745-8-0-8-9-0-62-2-3-35-9-5-2-9-9"
        width="20.780958"
        height="38.588097"
@@ -10978,5 +10969,25 @@
            id="tspan15204-0-2"
            sodipodi:role="line">Shift</tspan></text>
     </g>
+    <rect
+       style="opacity:1;fill:#aa0000;fill-opacity:1;stroke:none;stroke-width:1.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.8, 3.8;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4745-8-0-8-9-0-62-2-2-0-4-7-3"
+       width="20.780958"
+       height="38.588097"
+       x="211.50883"
+       y="784.52905"
+       rx="9.9814138"
+       ry="10.387672" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.85169506px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="978.9303"
+       y="580.62885"
+       id="text6619"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6621"
+         x="978.9303"
+         y="580.62885">CAPL</tspan></text>
   </g>
 </svg>
