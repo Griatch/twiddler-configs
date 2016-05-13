@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r"
    sodipodi:docname="cheatsheet_backspice.svg"
-   inkscape:export-filename="/home/griatch/Devel/twiddler-configs/img/backspice.png"
+   inkscape:export-filename="/home/samreg/Misc/OwnStuff/twiddler-configs/img/backspice.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -1965,16 +1965,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0905292"
-     inkscape:cx="724.03"
-     inkscape:cy="388.30832"
+     inkscape:zoom="0.77112059"
+     inkscape:cx="553.90877"
+     inkscape:cy="234.91151"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="1030"
-     inkscape:window-x="0"
-     inkscape:window-y="-3"
+     inkscape:window-width="1600"
+     inkscape:window-height="1200"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      gridtolerance="1"
      objecttolerance="1">
@@ -1990,7 +1990,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -13794,7 +13794,7 @@
          sodipodi:role="line"
          id="tspan25421"
          x="547.90393"
-         y="1038.0973">Backspice layout 2016-05-06</tspan></text>
+         y="1038.0973">BackSpice layout 2016-05-06</tspan></text>
     <rect
        style="opacity:1;fill:#225500;fill-opacity:1;stroke:none;stroke-width:1.89999998;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.8, 3.8;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4745-8-0-8-9-0-62-2-8-2-1"
