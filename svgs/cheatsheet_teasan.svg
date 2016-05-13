@@ -16,7 +16,10 @@
    id="svg6307"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="cheatsheet_teasan.svg">
+   sodipodi:docname="cheatsheet_teasan.svg"
+   inkscape:export-filename="/home/samreg/Misc/OwnStuff/twiddler-configs/img/teasan.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs6309">
     <marker
@@ -1781,16 +1784,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1946632"
-     inkscape:cx="748.73214"
-     inkscape:cy="508.19465"
+     inkscape:zoom="0.77593062"
+     inkscape:cx="594.34604"
+     inkscape:cy="276.24916"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="1030"
-     inkscape:window-x="0"
-     inkscape:window-y="-3"
+     inkscape:window-width="1600"
+     inkscape:window-height="1200"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata6312">
@@ -1800,7 +1803,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

@@ -40,11 +40,12 @@ information
 that there may still be changes happening to the config, at which
 point this sheet may not be completely accurate. 
 
+
 ## DelEnt
 
 ![delentimage](img/delent.png)
 
-This is my personal keyboard layout, named after the Del and Ent keys
+This was my personal keyboard layout, named after the Del and Ent keys
 being next to each other (had to pick something ...). I made this by
 reshuffling the letters of the default config by order of frequency in
 English (so *not* from TabSpace). The config then grew from there.
@@ -59,6 +60,18 @@ I also have rather short fingers which influenced where various common
 keys ended up and which types of finger-combinations are allowed. This 
 tended to make for a pretty clean presentation which helps me remember
 it visually. Nevertheless it's of course a work in progress.
+
+## TeaSan
+
+![teasanimage](img/teasan.png)
+
+This is a development of DelEnt I'm currently trying (the name is from
+the letters "tea" crossing "san" on the first cheat-sheet block). It
+reshuffles the letters a bit compared to DelEnt, notably shifting the
+most common letters "i" and "n" up a bit so less work is done by the
+pinkie. It also removes a lot of trigrams (only leaving the 3 most
+common) and making the digrams appear clustered in a (mostly) more
+logical way based on their first letter.
 
 ## Cheat-sheet template
 
