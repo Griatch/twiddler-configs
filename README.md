@@ -42,45 +42,43 @@ that there may still be changes happening to the config, at which
 point this sheet may not be completely accurate. 
 
 
-## DelEnt
+## DelEnt / TeaSan
 
 ![delentimage](img/delent.png)
-
-This was my first own keyboard layout, named after the Del and Ent
-keys being next to each other. This was done by starting from an empty
-layout (so *not* from TabSpace or Default) and order the letters by
-frequency in English according to where my fingers felt most
-comfortable to reach. The config grew from there. 
-
-While I'm both a Unix user and a programmer, my main use of the
-Twiddler is for writing text when on the move (usually "blindly", with
-the phone tucked away in a pocket). So this layout does not have much
-focus on programming/terminal use - contrary to the other layouts the
-Tab key is pretty well tucked away, for example. 
-
-I also have rather short fingers which influenced where various common
-keys ended up and which types of finger-combinations are allowed. This 
-tended to make for a pretty clean presentation which helped me remember
-it visually. 
-
-## TeaSan
-
 ![teasanimage](img/teasan.png)
 
-This is a development of DelEnt I'm currently trying (the name is from
-the letters "tea" crossing "san" on the first cheat-sheet block). 
+These were my first own keyboard layouts. They were made by starting from
+an empty key layout (so *not* from TabSpace or Default) and ordering the
+letters by frequency. From the original DelEnt I soon moved on to TeaSan
+which reshuffled the letters futher to subjectively fit what felt best
+for my hand. I also found that DelEnt was too heavy on my pinky, so this
+moved i and n up a bit. I also removed a lot of N-grams and clustered them
+more logically.  
 
-Compared to DelEnt, TeaSan reshuffles the letters based on where I've
-experienced them to feel the most comfortable during testing (so a
-very subjective thing obviously). It also moves the Del key to
-Shift+BS which means I could move the common letters "i" and "n" up a
-bit so less work is done by the pinkie. 
+## MirrorWalk
 
-TeaSan also removes a lot of trigrams (only leaving the 3 most common
-ones) to make it easier to remember (the DelEnt ones had a lot of
-overlaps with digrams, I found). It also makes the digrams appear
-clustered in a (mostly) more logical way based on their first letter.
-I may expand with more N-grams later, we'll see.
+![mirrorwalkimage](img/mirrorwalk.png)
+
+This is my current layout, based on the impressive "walking" layout 
+described by [Bill Horner](https://github.com/ben-horner/twiddler_layout/). This
+works very differently from the ones above. Notably every chord
+involves at least two fingers. There are *no* single-finger chords.
+The brilliance of this is that Mr. Horner calculated the transitions
+*between* keys (finding a placement where he claims 65% of the included 
+N-grams can be traversed in a "walk", where you either let the last key in 
+one chord be the first key in the next, or where you can keep one finger fixed
+why only moving the other. This requires a bit of extra gymnastics originally,
+since you, to be most efficient need to consider the *next* chord you want to
+reach in order to release/hold the right finger. The result is a very interesting
+type of chording that only uses your strongest three fingers for all letters, leaving
+the pinky to only handle special characters and punctuation. 
+
+Bill Horner lays out the walking scheme in his repo but doesn't
+include a full config. My "mirrorwalk" config takes his calculated
+chord scheme and adds all the needed keys like return/backspace,
+arrows etc in logical places. It also moves around the punctuation and
+other keys in ways that makes the scheme more consistent to me. 
+
 
 ## Cheat-sheet template
 
