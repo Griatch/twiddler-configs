@@ -57,7 +57,7 @@ more logically.
 
 ## MirrorWalk
 
-![mirrorwalkimage](img/mirrorwalk.png)
+![mirrorwalkimage](img/mirrorwalk_nomcc.png)
 
 This is my current layout, based on the impressive "walking" layout 
 described by [Bill Horner](https://github.com/ben-horner/twiddler_layout/). This
@@ -78,6 +78,13 @@ include a full config. My "mirrorwalk" config takes his calculated
 chord scheme and adds all the needed keys like return/backspace,
 arrows etc in logical places. It also moves around the punctuation and
 other keys in ways that makes the scheme more consistent to me. 
+
+I have updated the mirrorwalk config with additional single-key letters
+for handling some cross-situations when the walk fails between certain keys.
+It's recommended to learn the walk with `mirrorwalk_nomcc` first and really
+learn the walk since if you *can* do the walk it's faster than releasing
+the finger to press the few single-finger chord letters available in my
+latest version of mirrorwalk. 
 
 
 ## Cheat-sheet template
